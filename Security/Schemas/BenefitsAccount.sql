@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [BenefitsAccount] AUTHORIZATION [dbo]
+GO
